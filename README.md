@@ -33,4 +33,4 @@ Reach me
 
 <!-- 📧 Email: your-email@gmail.com -->
 
-🔗 LinkedIn: linkedin.com/in/your-profile
+🔗 LinkedIn: (https://www.linkedin.com/in/sneha-gaur-931654224/)
