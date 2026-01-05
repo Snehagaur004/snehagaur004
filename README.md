@@ -31,6 +31,6 @@ Python, JavaScript, SQL, C++, Pandas, NumPy, Power BI, Excel, Git/GitHub, Jupyte
 
 Reach me
 
-📧 Email: your-email@gmail.com
+<!-- 📧 Email: your-email@gmail.com -->
 
 🔗 LinkedIn: linkedin.com/in/your-profile
